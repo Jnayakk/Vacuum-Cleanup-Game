@@ -3,7 +3,7 @@ package sprites;
 /**
  * A Representation of a Dirt.
  * 
- * @author Jil
+ * @author Jay
  */
 
 public abstract class Dirt extends Sprite {
