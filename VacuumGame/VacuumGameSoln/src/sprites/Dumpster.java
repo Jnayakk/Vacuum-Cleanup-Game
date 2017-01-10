@@ -5,7 +5,7 @@ import game.Constants;
 /**
  * A Representation of a dumpster.
  * 
- * @author Jil
+ * @author Jay
  */
 public class Dumpster extends Sprite {
 
