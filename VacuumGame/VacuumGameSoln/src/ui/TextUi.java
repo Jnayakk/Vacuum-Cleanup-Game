@@ -12,7 +12,7 @@ import java.util.Scanner;
 /**
  * A TextUI object representation of The great vacuum race game.
  * 
- * @author Jil Nayak
+ * @author Jay Nayak
  */
 public class TextUi implements Ui {
 
