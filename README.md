@@ -32,3 +32,9 @@ The game is played on a grid where each character represents a component in the 
 ### The method fillgrid reads from the textfile above and populates the grid to give you the following image.
 ![textfilegridgui](https://cloud.githubusercontent.com/assets/24378046/21820678/a64e5c9c-d73e-11e6-843e-fd38b085b501.png)
 
+## Applied Concepts
+- Object Oriented Programming
+- Hashmaps, Hashsets
+- Arrays, Lists
+- Generic Types
+- File Reading.
