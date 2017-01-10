@@ -5,7 +5,7 @@ import game.Constants;
 /**
  * A Representation of a clean hallway.
  * 
- * @author Jil
+ * @author Jay
  */
 public class CleanHallway extends Sprite {
 
