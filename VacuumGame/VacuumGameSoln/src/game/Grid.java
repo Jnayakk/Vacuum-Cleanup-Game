@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * A representation of a grid.
  * 
- * @author Jil
+ * @author Jay
  */
 public abstract class Grid<T> {
 
