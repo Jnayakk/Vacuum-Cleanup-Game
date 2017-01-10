@@ -4,7 +4,7 @@ package game;
 import java.util.ArrayList;
 
 /**
- * @author Jil.
+ * @author Jay.
  *
  */
 public class ListGrid<T> extends Grid<T> {
