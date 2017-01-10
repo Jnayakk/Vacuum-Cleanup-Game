@@ -7,7 +7,7 @@ import game.Constants;
 /**
  * A representation of a wall.
  * 
- * @author Jil
+ * @author Jay
  */
 public class Wall extends Sprite {
 
