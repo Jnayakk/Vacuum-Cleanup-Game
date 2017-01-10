@@ -19,7 +19,7 @@ import java.util.Scanner;
 /**
  * A Representation of a VacuumGame.
  * 
- * @author Jil
+ * @author Jay
  */
 
 /**
