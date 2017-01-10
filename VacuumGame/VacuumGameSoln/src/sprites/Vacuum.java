@@ -5,7 +5,7 @@ import game.Constants;
 /**
  * A representation of a Vacuum.
  * 
- * @author Jil
+ * @author Jay
  */
 public class Vacuum extends Sprite {
 
