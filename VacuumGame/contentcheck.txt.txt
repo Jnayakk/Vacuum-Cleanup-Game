@@ -1,0 +1,49 @@
+Autotested Results for a1 submitted by Jil Nayak (nayakjil)
+Generated at 2016-11-01T23:08:16
+
+Summary of Results: 0 out of 2 tests successfully passed
+--
+
+Tests for testdircontent.TestContentStyle (0/2 passed)
+--
+
+1) Testing the contents of the submission directory.                                  .. failed
+.. because False is not true : Incorrect contents of A1soln. (details below):
+
+    Traceback (most recent call last):
+    
+      File "/usr/lib/python3.4/unittest/case.py", line 58, in testPartExecutor
+        yield
+    
+      File "/usr/lib/python3.4/unittest/case.py", line 577, in run
+        testMethod()
+    
+      File "/home/anya/courses/cscb07fall2016/assignment/marking/submissions/nayakjil/testdircontent.py", line 13, in test_content
+        'Incorrect contents of A1soln.')
+    
+      File "/usr/lib/python3.4/unittest/case.py", line 654, in assertTrue
+        raise self.failureException(msg)
+    
+    AssertionError: False is not true : Incorrect contents of A1soln.
+
+2) Result of checkstyle.                                                              .. failed
+.. because False is not true : Checkstyle fails. (details below):
+
+    Traceback (most recent call last):
+    
+      File "/usr/lib/python3.4/unittest/case.py", line 58, in testPartExecutor
+        yield
+    
+      File "/usr/lib/python3.4/unittest/case.py", line 577, in run
+        testMethod()
+    
+      File "/home/anya/courses/cscb07fall2016/assignment/marking/submissions/nayakjil/testdircontent.py", line 22, in test_checkstyle
+        'Checkstyle fails.')
+    
+      File "/usr/lib/python3.4/unittest/case.py", line 654, in assertTrue
+        raise self.failureException(msg)
+    
+    AssertionError: False is not true : Checkstyle fails.
+
+
+
