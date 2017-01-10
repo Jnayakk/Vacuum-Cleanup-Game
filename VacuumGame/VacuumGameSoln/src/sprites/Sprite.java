@@ -7,7 +7,7 @@ package sprites;
 /**
  * A representation of a sprite.
  * 
- * @author Jil
+ * @author Jay
  */
 public abstract class Sprite {
 
