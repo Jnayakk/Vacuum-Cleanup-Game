@@ -5,7 +5,7 @@ import java.io.IOException;
 /**
  * The UI interface for handling front-end.
  * 
- * @author Jil Nayak
+ * @author Jay Nayak
  *
  */
 public interface Ui {
