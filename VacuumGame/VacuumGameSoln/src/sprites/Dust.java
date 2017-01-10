@@ -5,7 +5,7 @@ import game.Constants;
 /**
  * A Representation of a dust.
  * 
- * @author Jil
+ * @author Jay
  */
 
 public class Dust extends Dirt {
