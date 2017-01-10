@@ -24,4 +24,14 @@ Each vacuum has a capacity. Cleaning up dirt or a dustball adds a constant amoun
 ![congratsmsg](https://cloud.githubusercontent.com/assets/24378046/21819949/c8b6c40c-d73b-11e6-899e-f78fc5d995ea.png)
 
 ## How the Grid works.
-The game is played on a grid where each character represents a sprite in the game. For example, the character 'X' represents a wall, '1' represents player 1, '2' represents player 2, '.' represents dust, 'o' represents dustballs, 'U' represents a dumpster, and of course ' ' the blank space represents an empty space that contains no dust or dustballs. To get each grid, there is a method called fill grid in VacuumGame.java which reads the characters from a textfile and then populates the grid according to the textfile. For example a sample textfile grid is show below
+The game is played on a grid where each character represents a component in the game. For example, the character 'X' represents a wall, '1' represents player 1, '2' represents player 2, '.' represents dust, 'o' represents dustballs, 'U' represents a dumpster, and of course ' ' the blank space represents an empty space that contains no dust or dustballs. To get each grid, there is a method called fill grid in VacuumGame.java which reads the characters from a textfile and then populates the grid according to the textfile. For example a sample textfile where the method reads from is shown below.
+
+### A textfile of the grid to use.
+![textfile grid](https://cloud.githubusercontent.com/assets/24378046/21820674/a3f2aa16-d73e-11e6-84a0-a5aab569004c.png)
+
+### The method fillgrid reads from the textfile above and populates the grid to give you the following image.
+![textfilegridgui](https://cloud.githubusercontent.com/assets/24378046/21820678/a64e5c9c-d73e-11e6-843e-fd38b085b501.png)
+
+## Author
+Jay Nayak
+
